@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langchain-community
+pypdf
+langchain-openai
+faiss-gpu
+joblib
