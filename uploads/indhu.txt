@@ -1,0 +1,188 @@
+Coimbatore
++91-8344720424
+indhu911994@gmail.com
+INDHUMATHI SUBRAMANIAM
+https://github.com/Indhumathii
+https://www.linkedin.com/in/indhum
+athi-subramaniam/
+SKILLS
+
+▪
+▪
+Tools & Techniques: Python,
+LangChain, OpenAI, Replicate,
+Transformer Models, LLMs,
+OpenCV, NLP, OCR, TensorFlow,
+Keras
+Data Analysis: Pandas, NumPy,
+Scikit-Learn, BeautifulSoup,
+Matplotlib, Seaborn
+PROFILE
+Quality-oriented Machine Learning Engineer, aiming to leverage
+skillset effectively in the field of software while contributing to the
+growth of organization.
+EXPERIENCE
+Software Engineer
+Innoboon Technologies | Coimbatore | May 2022 – Present
+Backend Developer | Diligence GPT (A&M) | Jun’24 – present
+▪
+Web Frameworks
+▪
+FastAPI, Django, Pytest
+▪
+Databases
+▪
+MySQL, PostgreSQL, Redis,
+Vector Databases, MongoDB
+▪
+Cloud Deployment and Containers
+▪
+Google Cloud Platform (GCP)
+Repository
+▪
+▪
+Jira Software, Confluence
+Operating Systems
+▪
+▪
+IDE/Editors: Visual Studio Code,
+Jupyter Notebooks, Google Colab
+API Testing: Postman, Swagger
+Other Tools
+▪
+▪
+▪
+Microservices Architecture,
+Prompt Engineering
+Built a speech-to-speech AI system using Twilio APIs,
+enabling real-time audio interactions with TTS and STT
+functionality.
+Optimized AI pipelines for low-latency, high-quality live
+audio conversations.
+Backend Developer | Equity | Feb’24 – Apr’24
+▪
+Windows, Linux
+IDEs & Tools
+▪
+Backend Developer | SalesBot | Apr’24 – Jun’24
+GitHub, Bitbucket
+Project Management
+Developed core functionalities of Diligence GPT, a
+diligence analysis tool for companies, enabling financial,
+functional, and benchmark analysis.
+Implemented Azure Blob Storage for file management and
+integrated a vector database for efficient document
+retrieval and analysis.
+Designed and optimized APIs while collaborating with UI
+and AI service teams to ensure seamless integration and
+functionality.
+▪
+▪
+▪
+▪
+Scraping company details from the web using Selenium to
+gather comprehensive datasets.
+Cleaning and processing data with Python and FastAPI to
+ensure accuracy and completeness.
+Developing machine learning models using the cleaned
+data to predict market prices and other company-specific
+features, employing advanced ML techniques and tools.
+Managing PostgreSQL databases on GCP to ensure
+efficient, secure, and reliable data storage and retrieval.
+Visualizing data using multiple graphs and charts to
+provide clear and actionable insights into market trends.EDUCATION
+Bachelor of Electronics and
+Communication Engineering
+Akshaya College of Engineering and
+Technology, Coimbatore-2015,
+CGPA:6.8
+EXPERIENCE
+Software Engineer
+Innoboon Technologies | Coimbatore | May 2022 – Present
+Backend Developer | YUNI | Dec’23 – Feb’24
+▪
+CERTIFICATION
+▪
+Machine Learning for All | Coursera
+▪
+| Feb’22 | Course Completed
+▪
+Python Zero to Mastery | Udemy |
+▪
+Nov’21 | Course Completed
+AWARDS
+Backend Developer | InSource | Nov’23
+▪
+VBA Developer Award | Infosys |
+Automation Training under CDP program
+▪
+PROJECTS
+Security Camera using Computer
+Vision
+▪
+System Security is designed for
+motion detection and webcam
+monitoring.
+▪
+A model that extracts the
+information from the invoice using
+OCR.
+Car Classification using Transfer
+Learning
+▪
+Applied transfer learning using
+RESNET50 to classify the car model
+from images of cars.
+SOFT SKILLS
+Developed a chatbot leveraging OpenAI and LangChain to
+generate insights from PDF books, setting up database
+connections and application infrastructure from scratch.
+Automated repetitive tasks using Selenium, significantly
+improving data processing efficiency.
+Integrated Google Cloud for scalable and secure storage
+solutions, enhancing overall application performance and
+reliability.
+AI/ML Engineer | CAIP - Conversational AI | May’23 – Oct’23
+▪
+Information Extraction using OCR
+▪
+Designed and deployed an integrated Replicate model for
+advanced image generation and enhancement.
+Fine-tuned the Replicate model to allow for tailored image
+processing, improving its versatility for specialized use
+cases.
+Showcased expertise in Prompt Engineering to efficiently
+manage and optimize image processing workflows.
+▪
+▪
+Developed a Conversational AI platform utilizing advanced
+NLP techniques and Large Language Models (LLM) with
+Langchain, connecting the backend and front end via
+FastAPI.
+Leveraged Transformer-based models and integrated LLM
+models into the Google Cloud Platform for scalable
+deployment.
+Utilized Redis for caching to enhance response times,
+providing a faster and more efficient user experience.
+Backend Developer | Inmar - FinTech Application | May’22 –
+May’23
+▪
+▪ Fast Learner
+▪ Critical Thinking
+Played a key role as a Python Backend Developer in the
+development of INMAR, a Deduction Management Portal
+aimed at tracking and managing deductions raised by
+retailers against manufacturer invoices.
+▪ Time Management
+▪ Communication SkillsSenior Process Executive
+▪ AdaptabilityInfosys | Bangalore | March 2017 – July 2020
+▪ Team Collaboration
+▪
+▪ Leadership
+▪ Creativity
+▪
+Provided friendly, easy to understand troubleshooting
+guidance for all inquiries resulting from handset or data
+devices and technical service issues.
+Resolving the Broadband/Email/Wireless Connectivity
+issues.

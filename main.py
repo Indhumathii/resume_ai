@@ -16,6 +16,7 @@ async def upload_resume(file: UploadFile = File(...), query:str=None):
         data = load_document(file_path=uploaded_path, file_extension=file_extension)
         # Step 3: Process the text into chunks and embeddings
         all_splits, docsearch, content_list = process_text(data)
+        answer=None
         if query:
             context = retrieve_relevant_chunks(query, docsearch)
             answer = run_chain(context,Prompt_template, query)

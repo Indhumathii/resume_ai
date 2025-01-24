@@ -14,6 +14,10 @@ from constant import allowed_extensions, UPLOAD_DIR
 os.makedirs(UPLOAD_DIR, exist_ok=True)
 os.environ['OPENAI_API_KEY']=""
 
+def validate_api_key():
+    """Validate that the OpenAI API key is set."""
+    if not os.environ['OPENAI_API_KEY']:
+        raise ValueError("OPENAI_API_KEY environment variable is not set.")
 
 def save_uploaded_file(file: UploadFile) -> tuple:
     """Saves the uploaded file to the uploads directory and returns its path and extension."""
